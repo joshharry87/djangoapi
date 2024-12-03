@@ -1,0 +1,23 @@
+Project to do - very simple bookings page * add extra functionality
+ideas as we go *
+
+another idea - allow user to draw something and record the xy coords
+into database, draw the image on click through
+something very simple to make this more interesting.
+
+
+create a booking manually and two booking notes
+quickly create a view showing the booking and notes
+
+
+add a booking entry page
+
+view list page of bookings, with a number of booking notes
+ -> click on the number to show the booking notes
+ -> edit booking details
+ -> add booking note link
+
+add in a login functionality and authorization
+
+clean up and use standardised views, clean error catching etc
+
